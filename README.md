@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 *   🌍  I'm based in Central America
-*   ❤️  I'm love SvelteKit
+*   ❤️  I love SvelteKit
 
 ### Skills 
 <p align="left">
