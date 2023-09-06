@@ -3,7 +3,7 @@ Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Canada
 * ❤️  I love SvelteKit
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
