@@ -7,7 +7,7 @@ Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,vite,nodejs,postgres,supabase,docker,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,vite,nodejs,postgres,supabase,docker,linux,figma,go)](https://skillicons.dev)
 
 ### GitHub Stats
 
