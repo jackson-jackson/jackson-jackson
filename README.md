@@ -9,7 +9,14 @@ Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,astro,vite,nodejs,postgres,supabase,docker,linux,figma,go)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,astro,vite,nodejs,postgres,supabase,docker,linux,figma,go&theme=dark&perline=10"
+      alt="My skills"
+    />
+  </a>
+</p>
 
 ### GitHub Stats
 
