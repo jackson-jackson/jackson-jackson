@@ -3,7 +3,13 @@ Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 **Full-stack engineer** building thoughtful web products with TypeScript, SvelteKit, Vue, and Astro. Based in Vancouver, Canada, and open to interesting collaborations.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,svelte,vue,nuxtjs,astro,postgres,supabase,docker&theme=dark&perline=14)](https://skillicons.dev)
+**Languages and frameworks**
+
+[![Languages and frameworks](https://skillicons.dev/icons?i=js,ts,html,css,py,go,svelte,vue,nuxtjs,astro,react,nextjs,tailwind,bootstrap&theme=dark&perline=14)](https://skillicons.dev)
+
+**Platforms and tools**
+
+[![Platforms and tools](https://skillicons.dev/icons?i=nodejs,postgres,supabase,docker,aws,vercel,git,githubactions,vite,vitest,pnpm,linux,figma,graphql&theme=dark&perline=14)](https://skillicons.dev)
 
 <details>
 <summary>GitHub Stats ⚡</summary>
