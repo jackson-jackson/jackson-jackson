@@ -1,5 +1,7 @@
-Full-stack engineer building thoughtful web products with TypeScript, SvelteKit, Vue, and Astro.
-================================================================================================
+Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jackson.
+================================================================================================================================
+
+## Full-stack engineer building thoughtful web products with TypeScript, SvelteKit, Vue, and Astro.
 
 * 🌍  I'm based in Canada
 * ❤️  I love SvelteKit
