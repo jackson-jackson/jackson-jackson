@@ -1,5 +1,5 @@
-Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jackson.
-================================================================================================================================
+Full-stack engineer building thoughtful web products with TypeScript, SvelteKit, Vue, and Astro.
+================================================================================================
 
 * 🌍  I'm based in Canada
 * ❤️  I love SvelteKit
@@ -7,7 +7,7 @@ Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,vite,nodejs,postgres,supabase,docker,linux,figma,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,py,ts,html,css,tailwind,bootstrap,svelte,vue,nuxtjs,astro,vite,nodejs,postgres,supabase,docker,linux,figma,go)](https://skillicons.dev)
 
 ### GitHub Stats
 
